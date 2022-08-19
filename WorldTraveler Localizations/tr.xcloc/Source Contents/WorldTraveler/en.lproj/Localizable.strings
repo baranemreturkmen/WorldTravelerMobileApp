@@ -1,0 +1,27 @@
+/* No comment provided by engineer. */
+"CONVERSION_DEGREES_CELSIUS" = "degrees Celsius";
+
+/* No comment provided by engineer. */
+"CONVERSION_FAHRENHEITH" = "fahrenheit";
+
+/* No comment provided by engineer. */
+"CONVERSION_IS_ACTUALLY" = "is actualy";
+
+/* No comment provided by engineer. */
+"CONVERSION_TEXT_FIELD_PLACEHOLDER" = "value";
+
+/* No comment provided by engineer. */
+"MAP_CITY_ISTANBUL" = "Istanbul";
+
+/* No comment provided by engineer. */
+"MAP_CITY_LONDON" = "London";
+
+/* Localizable.strings
+  WorldTraveler
+
+  Created by Baran Emre Türkmen on 17.08.2022. */
+"TAB_CONVERSION" = "Conversion";
+
+/* No comment provided by engineer. */
+"TAB_MAP" = "Map";
+

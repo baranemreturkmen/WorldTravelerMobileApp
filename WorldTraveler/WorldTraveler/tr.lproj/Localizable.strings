@@ -1,0 +1,30 @@
+/* No comment provided by engineer. */
+"CONVERSION_DEGREES_CELSIUS" = "derece";
+
+/* No comment provided by engineer. */
+"CONVERSION_FAHRENHEITH" = "fahrenheit";
+
+/* No comment provided by engineer. */
+"CONVERSION_IS_ACTUALLY" = "aslında";
+
+/* No comment provided by engineer. */
+"CONVERSION_TEXT_FIELD_PLACEHOLDER" = "değer";
+
+/* No comment provided by engineer. */
+"MAP_CITY_ISTANBUL" = "İstanbul";
+
+/* No comment provided by engineer. */
+"MAP_CITY_LONDON" = "Londra";
+
+/* No comment provided by engineer. */
+"Picker" = "";
+
+/* Localizable.strings
+  WorldTraveler
+
+  Created by Baran Emre Türkmen on 17.08.2022. */
+"TAB_CONVERSION" = "Çevirici";
+
+/* No comment provided by engineer. */
+"TAB_MAP" = "Harita";
+
